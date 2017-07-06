@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFF</color>
+    <color name="calendar_top_bg">#F5A0B3</color>
+    <color name="fragment_home">#ffe0bbf5</color>
+    <color name="fragment_today">#ffa2eff5</color>
+    <color name="fragment_tomorrow">#ffd8f5c1</color>
+    <color name="fragment_later">#ffffdfce</color>
+    <color name="activity_second">#fffcffec</color>
+</resources>
